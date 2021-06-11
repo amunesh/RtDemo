@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">PostData</string>
+    <string name="email_id">Email ID</string>
+    <string name="enter_email_id">Enter Email ID</string>
+    <string name="password">Password</string>
+    <string name="enter_passowrd">Enter Password</string>
+    <string name="login">Login</string>
+
+
+    <string name="sign_up">SIGN UP</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="name">Name</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="validemail">Enter Valid Email id</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="no_app_found">No Data Found</string>
+</resources>
